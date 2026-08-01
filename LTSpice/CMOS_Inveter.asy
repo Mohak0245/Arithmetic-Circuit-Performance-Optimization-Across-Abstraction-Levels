@@ -1,0 +1,21 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -48 -48 64 64
+TEXT -27 45 Left 0 CMOS Inverter
+TEXT 16 -48 Bottom 0 VDD
+TEXT 16 64 Top 0 GND
+TEXT -48 0 Left 0 In
+TEXT 64 0 Right 0 Out
+WINDOW 0 -48 -48 Bottom 0
+PIN -48 0 NONE 8
+PINATTR PinName In
+PINATTR SpiceOrder 1
+PIN 16 64 NONE 4
+PINATTR PinName GND
+PINATTR SpiceOrder 2
+PIN 64 0 NONE 8
+PINATTR PinName Out
+PINATTR SpiceOrder 3
+PIN 16 -48 NONE 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 4

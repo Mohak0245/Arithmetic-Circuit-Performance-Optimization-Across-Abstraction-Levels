@@ -1,0 +1,33 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -96 -64 112 80
+TEXT -96 -48 Left 0 A
+TEXT -96 16 Left 0 B
+TEXT -96 48 Left 0 B_bar
+TEXT -96 -16 Left 0 A_bar
+TEXT 16 -64 Bottom 0 VDD
+TEXT 112 0 Right 0 Output
+TEXT 16 80 Top 0 GND
+TEXT -13 52 Left 0 CMOS_XOR
+WINDOW 0 -96 -64 Bottom 0
+PIN -96 -48 NONE 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN -96 -16 NONE 8
+PINATTR PinName A_bar
+PINATTR SpiceOrder 2
+PIN -96 16 NONE 8
+PINATTR PinName B
+PINATTR SpiceOrder 3
+PIN -96 48 NONE 8
+PINATTR PinName B_bar
+PINATTR SpiceOrder 4
+PIN 16 80 NONE 8
+PINATTR PinName GND
+PINATTR SpiceOrder 5
+PIN 112 0 NONE 8
+PINATTR PinName Output
+PINATTR SpiceOrder 6
+PIN 16 -64 NONE 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 7

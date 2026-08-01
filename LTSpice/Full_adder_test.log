@@ -1,0 +1,93 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Mohak Agarwal\Documents\LTspice\Full_adder_test.net
+Start Time: Sat Aug  1 18:47:56 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Instance "x1:x1:N2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:N2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:N3": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:N3": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:N4": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:N4": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:N2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:N2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:N3": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:N3": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:N4": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:N4": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x4:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x4:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x5:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x5:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x3:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x3:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x6:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x6:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x7:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x7:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x7:N2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x7:N2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x8:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x8:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x8:N2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x8:N2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x9:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x9:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x9:N2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x9:N2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:P3": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:P3": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:P4": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:P4": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:P2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:P2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:P3": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:P3": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:P4": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:P4": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:P2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:P2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x2:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x2:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x4:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x4:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x5:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x5:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x3:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x3:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x6:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x6:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x7:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x7:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x7:P2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x7:P2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x8:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x8:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x8:P2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x8:P2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x9:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x9:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x9:P2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x9:P2": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.167 seconds.
+
+Files loaded:
+C:\Users\Mohak Agarwal\Documents\LTspice\Full_adder_test.net
+C:\Users\Mohak Agarwal\AppData\Local\LTspice\lib\cmp\standard.mos
+
+trise_sum=5.42250362227e-11 FROM 1.01320729036e-08 TO 1.01862979398e-08
+tfall_sum=7.29497104135e-11 FROM 4.79058257721e-11 TO 1.20855536186e-10
+trise_cout=2.37502507717e-11 FROM 5.45943362002e-11 TO 7.83445869719e-11
+tfall_cout=5.63698833919e-11 FROM 3.01478229727e-08 TO 3.0204192856e-08
+tplh_cin_to_sum=1.01100920006e-08 FROM 4.99999987206e-11 TO 1.01600919993e-08
+tphl_cin_to_sum=-3.00640278404e-08 FROM 3.01499999984e-08 TO 8.59721579099e-11

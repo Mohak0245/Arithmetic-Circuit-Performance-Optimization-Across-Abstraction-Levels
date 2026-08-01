@@ -1,0 +1,47 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Mohak Agarwal\Documents\LTspice\CMOS_XOR_test.net
+Start Time: Sat Aug  1 15:40:53 2026
+Options:plotwinsize=0
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Instance "x1:N2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:N2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:N3": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:N3": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:N4": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:N4": Width narrower than recommended for a level 1 MOSFET.
+Instance "x2:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x2:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x3:N1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x3:N1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:P3": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:P3": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:P4": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:P4": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:P2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:P2": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x2:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x2:P1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x3:P1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x3:P1": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.189 seconds.
+
+Files loaded:
+C:\Users\Mohak Agarwal\Documents\LTspice\CMOS_XOR_test.net
+C:\Users\Mohak Agarwal\AppData\Local\LTspice\lib\cmp\standard.mos
+
+tplh=1.01087533215e-08 FROM 5.00000003031e-11 TO 1.01587533218e-08
+tphl=4.18509780357e-11 FROM 2.00499999988e-08 TO 2.00918509768e-08
+trise=1.01252407128e-08 FROM 5.98840132044e-11 TO 1.0185124726e-08
+tfall=5.39829056639e-11 FROM 3.01454139595e-08 TO 3.01993968652e-08
